@@ -1,0 +1,15 @@
+{
+  "name": "beeradvocate",
+  "version": "1.0.0",
+  "description": "Simple app to pull data from Beer Advocate",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "monix88",
+  "license": "ISC",
+  "dependencies": {
+    "beeradvocate-api": "0.0.1",
+    "express": "^4.16.3"
+  }
+}
